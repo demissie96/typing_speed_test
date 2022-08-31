@@ -2,27 +2,28 @@ import React, { useState, useEffect } from "react";
 import Header from "./Header";
 import myJson from "../words_list_1000.json";
 
+var hungarianList = [];
+var englishList = [];
+
+function Generate300Words() {
+  for (let index = 0; index < 300; index++) {
+    // Generate random number between 0 and 1000
+    let randomNum = Math.floor(Math.random() * 1001);
+
+    hungarianList.push(myJson.words[randomNum].hungarianWord);
+    englishList.push(myJson.words[randomNum].englishWord);
+    hungarianList.push(" ");
+    englishList.push(" ");
+  }
+  console.log(hungarianList);
+  console.log(englishList);
+}
+
 function App() {
   const [wordList, setWordList] = useState("");
 
   // The highest typing speed ever recorded was 216 words per minute (wpm),
   // so make a list of 300 random words.
-  var hungarianList = [];
-  var englishList = [];
-
-  function Generate300Words() {
-    for (let index = 0; index < 300; index++) {
-      // Generate random number between 0 and 1000
-      let randomNum = Math.floor(Math.random() * 1001);
-
-      hungarianList.push(myJson.words[randomNum].hungarianWord);
-      englishList.push(myJson.words[randomNum].englishWord);
-      hungarianList.push(" ");
-      englishList.push(" ");
-    }
-    console.log(hungarianList);
-    console.log(englishList);
-  }
 
   // Run functions on initial rendering
   useEffect(() => {
