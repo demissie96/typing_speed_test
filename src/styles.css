@@ -1,7 +1,19 @@
+/* Color palette
+  #191919 background
+  #2D4263 header
+  #C84B31 emphasis
+  #ECDBBA text
+  #FF1700 red
+  #06FF00 green
+*/
+
 html,
 body {
   margin: 0px;
   padding: 0px;
-  height: 100%;
-  width: 100%;
+  height: 100vh;
+  width: 100vw;
+  background-color: #191919;
+  overflow: hidden;
 }
+

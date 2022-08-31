@@ -22,13 +22,18 @@ function App() {
 
   const wordList = hungarianList.map((item) => (
     // wordBoxes is for measuring the element width with 'offsetWidth'
-    <div className="wordBoxes" style={{ fontSize: "25px" }}>{item}</div>
+    <div
+      className="wordBoxes"
+      style={{ fontSize: "30px", color: "white", height: "34px" }}
+    >
+      {item}
+    </div>
   ));
 
   return (
     <>
       <Header />
-      <div id="workingArea">
+      <div id="workingArea" style={{ height: "128"}}>
         <div
           id="coverElement1"
           style={{
@@ -36,8 +41,8 @@ function App() {
             margin: "0 auto 0",
             width: "800px",
             height: "60px",
-            backgroundColor: "blue",
-            zIndex: 0,
+            backgroundColor: "#191919",
+            zIndex: 1,
           }}
         ></div>
         <div
@@ -46,15 +51,15 @@ function App() {
             display: "flex",
             position: "relative",
             whiteSpace: "pre",
-            width: "700px",
-            height: "60px",
+            width: "800px",
+            height: "69.82px",
             overflow: "visible",
             flexDirection: "row",
             flexWrap: "wrap",
             justifyContent: "flex-start",
             margin: "0 auto 0",
-            // ez mozgatja a szöveget
-            top: "0px", 
+            // this moves the text with 34px = 1 row
+            top: "0px",
           }}
         >
           {wordList}
@@ -66,11 +71,11 @@ function App() {
             left: 0,
             right: 0,
             margin: "0 auto 0",
-            width: "800px",
-            height: "900px",
-            backgroundColor: "blue",
-            top: "197px",
-            zIndex: 1,
+            width: "850px",
+            height: "1200px",
+            backgroundColor: "#191919",
+            top: "216px",
+            zIndex: 0,
           }}
         ></div>
       </div>
