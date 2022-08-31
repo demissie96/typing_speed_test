@@ -1,0 +1,5004 @@
+{
+  "words": [
+    {
+      "rank": 1,
+      "hungarianWord": "mint",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "hungarianWord": "én",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "hungarianWord": "övé",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "hungarianWord": "hogy",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "hungarianWord": "ő",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "hungarianWord": "volt",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "hungarianWord": "a",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "hungarianWord": "szóló",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "hungarianWord": "vannak",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "hungarianWord": "-val",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "hungarianWord": "ők",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "hungarianWord": "lehet",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "hungarianWord": "meg",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "hungarianWord": "egy",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "hungarianWord": "van",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "hungarianWord": "ezt",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "hungarianWord": "a",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "hungarianWord": "által",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "hungarianWord": "forró",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "hungarianWord": "szó",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "hungarianWord": "de",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "hungarianWord": "milyen",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "hungarianWord": "néhány",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "hungarianWord": "az",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "hungarianWord": "azt",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "hungarianWord": "Ön",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "hungarianWord": "vagy",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "hungarianWord": "volt",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "hungarianWord": "az",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "hungarianWord": "a",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "hungarianWord": "hogy",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "hungarianWord": "és",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "hungarianWord": "ügynökség",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "hungarianWord": "itt",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "hungarianWord": "mi",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "hungarianWord": "lehet",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "hungarianWord": "ki",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "hungarianWord": "más",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "hungarianWord": "voltak",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "hungarianWord": "amely",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "hungarianWord": "csinálni",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "hungarianWord": "ezek",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "hungarianWord": "idő",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "hungarianWord": "ha",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "hungarianWord": "fog",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "hungarianWord": "hogyan",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "hungarianWord": "mondta",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "hungarianWord": "egy",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "hungarianWord": "minden",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "hungarianWord": "mondd meg",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "hungarianWord": "nem",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "hungarianWord": "készlet",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "hungarianWord": "három",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "hungarianWord": "akar",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "hungarianWord": "levegő",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "hungarianWord": "jól",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "hungarianWord": "is",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "hungarianWord": "játék",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "hungarianWord": "kicsi",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "hungarianWord": "end",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "hungarianWord": "tesz",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "hungarianWord": "otthon",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "hungarianWord": "olvas",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "hungarianWord": "kézi",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "hungarianWord": "porton",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "hungarianWord": "nagy",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "hungarianWord": "varázslat",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "hungarianWord": "hozzáad",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "hungarianWord": "még",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "hungarianWord": "föld",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "hungarianWord": "itt",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "hungarianWord": "kell",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "hungarianWord": "nagy",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "hungarianWord": "nagy",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "hungarianWord": "ilyen",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "hungarianWord": "kövesse",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "hungarianWord": "felvonás",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "hungarianWord": "miért",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "hungarianWord": "kér",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "hungarianWord": "férfiak",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "hungarianWord": "változás",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "hungarianWord": "ment",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "hungarianWord": "fény",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "hungarianWord": "kedves",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "hungarianWord": "le",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "hungarianWord": "szükség",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "hungarianWord": "ház",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "hungarianWord": "kép",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "hungarianWord": "próbálja",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "hungarianWord": "nekünk",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "hungarianWord": "újra",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "hungarianWord": "állat",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "hungarianWord": "pont",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "hungarianWord": "anya",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "hungarianWord": "világ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "hungarianWord": "közel",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "hungarianWord": "épít",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "hungarianWord": "self",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "hungarianWord": "Föld",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "hungarianWord": "apa",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "hungarianWord": "bármilyen",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "hungarianWord": "új",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "hungarianWord": "munka",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "hungarianWord": "rész",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "hungarianWord": "hogy",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "hungarianWord": "kap",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "hungarianWord": "hely",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "hungarianWord": "készült",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "hungarianWord": "él",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "hungarianWord": "ahol",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "hungarianWord": "után",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "hungarianWord": "vissza",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "hungarianWord": "kis",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "hungarianWord": "csak",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "hungarianWord": "kerek",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "hungarianWord": "férfi",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "hungarianWord": "év",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "hungarianWord": "jött",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "hungarianWord": "előadás",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "hungarianWord": "minden",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "hungarianWord": "jó",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "hungarianWord": "nekem",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "hungarianWord": "ad",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "hungarianWord": "mi",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "hungarianWord": "alatt",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "hungarianWord": "név",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "hungarianWord": "nagyon",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "hungarianWord": "keresztül",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "hungarianWord": "csak",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "hungarianWord": "űrlap",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "hungarianWord": "mondat",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "hungarianWord": "nagy",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "hungarianWord": "gondol",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "hungarianWord": "mondjuk",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "hungarianWord": "segítség",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "hungarianWord": "alacsony",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "hungarianWord": "vonal",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "hungarianWord": "különböznek",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "hungarianWord": "viszont",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "hungarianWord": "ok",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "hungarianWord": "sokkal",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "hungarianWord": "átlagos",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "hungarianWord": "előtt",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "hungarianWord": "lépés",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "hungarianWord": "jobb",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "hungarianWord": "fiú",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "hungarianWord": "régi",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "hungarianWord": "túl",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "hungarianWord": "ugyanaz",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "hungarianWord": "ő",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "hungarianWord": "minden",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "hungarianWord": "ott",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "hungarianWord": "amikor",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "hungarianWord": "up",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "hungarianWord": "használat",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "hungarianWord": "Ön",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "hungarianWord": "út",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "hungarianWord": "körülbelül",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "hungarianWord": "sok",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "hungarianWord": "akkor",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "hungarianWord": "őket",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "hungarianWord": "ír",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "hungarianWord": "lenne",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "hungarianWord": "hasonló",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "hungarianWord": "így",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "hungarianWord": "ezeket",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "hungarianWord": "ő",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "hungarianWord": "hosszú",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "hungarianWord": "hogy",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "hungarianWord": "dolog",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "hungarianWord": "lásd",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "hungarianWord": "neki",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "hungarianWord": "két",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "hungarianWord": "van",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "hungarianWord": "néz",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "hungarianWord": "több",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "hungarianWord": "nap",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "hungarianWord": "tudott",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "hungarianWord": "megy",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "hungarianWord": "jön",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "hungarianWord": "tett",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "hungarianWord": "szám",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "hungarianWord": "hang",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "hungarianWord": "nincs",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "hungarianWord": "legtöbb",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "hungarianWord": "emberek",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "hungarianWord": "enyém",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "hungarianWord": "át",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "hungarianWord": "tudja",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "hungarianWord": "víz",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "hungarianWord": "mint",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "hungarianWord": "hívás",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "hungarianWord": "első",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "hungarianWord": "aki",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "hungarianWord": "lehet",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "hungarianWord": "lefelé",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "hungarianWord": "oldal",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "hungarianWord": "volt",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "hungarianWord": "jelenleg",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "hungarianWord": "talál",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "hungarianWord": "fej",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "hungarianWord": "állvány",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "hungarianWord": "saját",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "hungarianWord": "oldal",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "hungarianWord": "kellene",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "hungarianWord": "ország",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "hungarianWord": "talált",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "hungarianWord": "válasz",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "hungarianWord": "iskola",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "hungarianWord": "nő",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "hungarianWord": "tanulmány",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "hungarianWord": "még mindig",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "hungarianWord": "tanul",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "hungarianWord": "növény",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "hungarianWord": "fedél",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "hungarianWord": "étel",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "hungarianWord": "nap",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "hungarianWord": "négy",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "hungarianWord": "között",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "hungarianWord": "állami",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "hungarianWord": "tart",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "hungarianWord": "szem",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "hungarianWord": "soha",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "hungarianWord": "utolsó",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "hungarianWord": "legyen",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "hungarianWord": "gondolat",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "hungarianWord": "város",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "hungarianWord": "fa",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "hungarianWord": "kereszt",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "hungarianWord": "gazdasági",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "hungarianWord": "kemény",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "hungarianWord": "kezdet",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "hungarianWord": "talán",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "hungarianWord": "történet",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "hungarianWord": "fűrész",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "hungarianWord": "messze",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "hungarianWord": "tenger",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "hungarianWord": "felhívni",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "hungarianWord": "balra",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "hungarianWord": "késő",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "hungarianWord": "fuss",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "hungarianWord": "nem",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "hungarianWord": "míg",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "hungarianWord": "sajtó",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "hungarianWord": "szoros",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "hungarianWord": "éjszaka",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "hungarianWord": "valóságos",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "hungarianWord": "élet",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "hungarianWord": "kevés",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "hungarianWord": "északi",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "hungarianWord": "könyv",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "hungarianWord": "visz",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "hungarianWord": "vett",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "hungarianWord": "tudomány",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "hungarianWord": "eszik",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "hungarianWord": "szoba",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "hungarianWord": "barát",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "hungarianWord": "kezdődött",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "hungarianWord": "ötlet",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "hungarianWord": "hal",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "hungarianWord": "hegyi",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "hungarianWord": "megáll",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "hungarianWord": "egyszer",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "hungarianWord": "alap",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "hungarianWord": "hall",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "hungarianWord": "ló",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "hungarianWord": "vágás",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "hungarianWord": "biztos",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "hungarianWord": "karóra",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "hungarianWord": "szín",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "hungarianWord": "arc",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "hungarianWord": "fa",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "hungarianWord": "fő",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "hungarianWord": "nyitott",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "hungarianWord": "látszik",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "hungarianWord": "együtt",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "hungarianWord": "következő",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "hungarianWord": "fehér",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "hungarianWord": "gyerekek",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "hungarianWord": "kezdődik",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "hungarianWord": "kapott",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "hungarianWord": "séta",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "hungarianWord": "példa",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "hungarianWord": "könnyű",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "hungarianWord": "papír",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "hungarianWord": "csoport",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "hungarianWord": "mindig",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "hungarianWord": "zene",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "hungarianWord": "azok",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "hungarianWord": "mindkét",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "hungarianWord": "jel",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "hungarianWord": "gyakran",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "hungarianWord": "levél",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "hungarianWord": "míg",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "hungarianWord": "mérföld",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "hungarianWord": "folyó",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "hungarianWord": "autó",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "hungarianWord": "láb",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "hungarianWord": "gondoskodás",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "hungarianWord": "második",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "hungarianWord": "elég",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "hungarianWord": "sima",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "hungarianWord": "lány",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "hungarianWord": "szokásos",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "hungarianWord": "fiatal",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "hungarianWord": "kész",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "hungarianWord": "felett",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "hungarianWord": "valaha",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "hungarianWord": "piros",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "hungarianWord": "lista",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "hungarianWord": "bár",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "hungarianWord": "úgy érzi,",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "hungarianWord": "beszélgetés",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "hungarianWord": "madár",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "hungarianWord": "hamar",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "hungarianWord": "test",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "hungarianWord": "kutya",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "hungarianWord": "család",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "hungarianWord": "közvetlen",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "hungarianWord": "jelent",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "hungarianWord": "elhagy",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "hungarianWord": "dal",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "hungarianWord": "intézkedés",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "hungarianWord": "ajtó",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "hungarianWord": "termék",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "hungarianWord": "fekete",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "hungarianWord": "rövid",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "hungarianWord": "szám",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "hungarianWord": "osztály",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "hungarianWord": "szél",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "hungarianWord": "kérdés",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "hungarianWord": "történik",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "hungarianWord": "teljes",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "hungarianWord": "hajó",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "hungarianWord": "terület",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "hungarianWord": "fél",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "hungarianWord": "kő",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "hungarianWord": "rendelés",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "hungarianWord": "tűz",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "hungarianWord": "délre",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "hungarianWord": "probléma",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "hungarianWord": "darab",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "hungarianWord": "mondta",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "hungarianWord": "tudta",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "hungarianWord": "át",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "hungarianWord": "óta",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "hungarianWord": "felső",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "hungarianWord": "egész",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "hungarianWord": "király",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "hungarianWord": "utca",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "hungarianWord": "hüvelyk",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "hungarianWord": "szaporodnak",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "hungarianWord": "semmi",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "hungarianWord": "tanfolyam",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "hungarianWord": "marad",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "hungarianWord": "kerék",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "hungarianWord": "teljes",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "hungarianWord": "erő",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "hungarianWord": "kék",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "hungarianWord": "tárgy",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "hungarianWord": "dönt",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "hungarianWord": "felület",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "hungarianWord": "mély",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "hungarianWord": "hold",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "hungarianWord": "sziget",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "hungarianWord": "láb",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "hungarianWord": "rendszer",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "hungarianWord": "elfoglalt",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "hungarianWord": "teszt",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "hungarianWord": "rekord",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "hungarianWord": "hajó",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "hungarianWord": "közös",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "hungarianWord": "arany",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "hungarianWord": "lehetséges",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "hungarianWord": "repülőgép",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "hungarianWord": "helyett",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "hungarianWord": "száraz",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "hungarianWord": "csoda",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "hungarianWord": "nevetés",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "hungarianWord": "ezer",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "hungarianWord": "ezelőtt",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "hungarianWord": "futott",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "hungarianWord": "ellenőrizze",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "hungarianWord": "játék",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "hungarianWord": "forma",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "hungarianWord": "egyenlővé",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "hungarianWord": "forró",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "hungarianWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "hungarianWord": "hozott",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "hungarianWord": "hő",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "hungarianWord": "hóban",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "hungarianWord": "gumiabroncs",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "hungarianWord": "hoz",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "hungarianWord": "igen",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "hungarianWord": "távoli",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "hungarianWord": "töltse",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "hungarianWord": "Kelet",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "hungarianWord": "festék",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "hungarianWord": "nyelv",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "hungarianWord": "között",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "hungarianWord": "egység",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "hungarianWord": "teljesítmény",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "hungarianWord": "város",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "hungarianWord": "finom",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "hungarianWord": "bizonyos",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "hungarianWord": "légy",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "hungarianWord": "esik",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "hungarianWord": "vezet",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "hungarianWord": "kiáltás",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "hungarianWord": "sötét",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "hungarianWord": "gép",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "hungarianWord": "hangjegy",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "hungarianWord": "várjon",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "hungarianWord": "terv",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "hungarianWord": "ábra",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "hungarianWord": "csillag",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "hungarianWord": "doboz",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "hungarianWord": "főnév",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "hungarianWord": "mező",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "hungarianWord": "pihenés",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "hungarianWord": "helyes",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "hungarianWord": "képes",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "hungarianWord": "font",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "hungarianWord": "Kész",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "hungarianWord": "szépség",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "hungarianWord": "meghajtó",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "hungarianWord": "állt",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "hungarianWord": "tartalmaz",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "hungarianWord": "első",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "hungarianWord": "tanít",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "hungarianWord": "hét",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "hungarianWord": "utolsó",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "hungarianWord": "adott",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "hungarianWord": "zöld",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "hungarianWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "hungarianWord": "gyors",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "hungarianWord": "fejleszt",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "hungarianWord": "óceán",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "hungarianWord": "meleg",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "hungarianWord": "ingyenes",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "hungarianWord": "perc",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "hungarianWord": "erős",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "hungarianWord": "speciális",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "hungarianWord": "elme",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "hungarianWord": "mögött",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "hungarianWord": "világos",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "hungarianWord": "farok",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "hungarianWord": "termel",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "hungarianWord": "tény",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "hungarianWord": "hely",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "hungarianWord": "hallott",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "hungarianWord": "legjobb",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "hungarianWord": "óra",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "hungarianWord": "jobb",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "hungarianWord": "igaz",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "hungarianWord": "alatt",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "hungarianWord": "száz",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "hungarianWord": "öt",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "hungarianWord": "emlékezik",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "hungarianWord": "lépés",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "hungarianWord": "korai",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "hungarianWord": "tartsa",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "hungarianWord": "west",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "hungarianWord": "föld",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "hungarianWord": "kamat",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "hungarianWord": "elérni",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "hungarianWord": "gyors",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "hungarianWord": "ige",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "hungarianWord": "énekel",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "hungarianWord": "hallgat",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "hungarianWord": "hat",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "hungarianWord": "táblázat",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "hungarianWord": "utazás",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "hungarianWord": "kevesebb",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "hungarianWord": "reggel",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "hungarianWord": "tíz",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "hungarianWord": "egyszerű",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "hungarianWord": "több",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "hungarianWord": "magánhangzó",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "hungarianWord": "felé",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "hungarianWord": "háború",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "hungarianWord": "világi",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "hungarianWord": "ellen",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "hungarianWord": "minta",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "hungarianWord": "lassú",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "hungarianWord": "központ",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "hungarianWord": "szerelem",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "hungarianWord": "személy",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "hungarianWord": "pénz",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "hungarianWord": "szolgál",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "hungarianWord": "jelenik meg",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "hungarianWord": "út",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "hungarianWord": "térkép",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "hungarianWord": "eső",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "hungarianWord": "szabály",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "hungarianWord": "kormány",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "hungarianWord": "húzza",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "hungarianWord": "hideg",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "hungarianWord": "értesítés",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "hungarianWord": "hang",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "hungarianWord": "energia",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "hungarianWord": "vadászat",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "hungarianWord": "valószínű",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "hungarianWord": "ágy",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "hungarianWord": "testvér",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "hungarianWord": "tojás",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "hungarianWord": "út",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "hungarianWord": "sejt",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "hungarianWord": "hisz",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "hungarianWord": "talán",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "hungarianWord": "vegye",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "hungarianWord": "hirtelen",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "hungarianWord": "számol",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "hungarianWord": "tér",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "hungarianWord": "ok",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "hungarianWord": "hossz",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "hungarianWord": "képviseli",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "hungarianWord": "művészet",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "hungarianWord": "téma",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "hungarianWord": "terület",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "hungarianWord": "méret",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "hungarianWord": "változik",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "hungarianWord": "rendezni",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "hungarianWord": "beszél",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "hungarianWord": "súly",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "hungarianWord": "általános",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "hungarianWord": "jég",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "hungarianWord": "kérdés",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "hungarianWord": "kör",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "hungarianWord": "pár",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "hungarianWord": "többek között",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "hungarianWord": "szakadék",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "hungarianWord": "szótag",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "hungarianWord": "úgy érezte,",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "hungarianWord": "nagy",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "hungarianWord": "labda",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "hungarianWord": "még",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "hungarianWord": "hullám",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "hungarianWord": "csepp",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "hungarianWord": "szív",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "hungarianWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "hungarianWord": "jelenlegi",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "hungarianWord": "nehéz",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "hungarianWord": "tánc",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "hungarianWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "hungarianWord": "pozíció",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "hungarianWord": "kar",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "hungarianWord": "széles",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "hungarianWord": "vitorla",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "hungarianWord": "anyagi",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "hungarianWord": "frakció",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "hungarianWord": "erdő",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "hungarianWord": "ül",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "hungarianWord": "verseny",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "hungarianWord": "ablak",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "hungarianWord": "üzlet",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "hungarianWord": "nyár",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "hungarianWord": "vonat",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "hungarianWord": "alvás",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "hungarianWord": "bizonyít",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "hungarianWord": "magányos",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "hungarianWord": "láb",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "hungarianWord": "gyakorlat",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "hungarianWord": "fal",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "hungarianWord": "fogás",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "hungarianWord": "tartó",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "hungarianWord": "szeretnék",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "hungarianWord": "ég",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "hungarianWord": "tábla",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "hungarianWord": "öröm",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "hungarianWord": "tél",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "hungarianWord": "ült",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "hungarianWord": "írott",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "hungarianWord": "vad",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "hungarianWord": "eszköz",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "hungarianWord": "tartott",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "hungarianWord": "üveg",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "hungarianWord": "fű",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "hungarianWord": "tehén",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "hungarianWord": "munka",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "hungarianWord": "él",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "hungarianWord": "jel",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "hungarianWord": "látogatás",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "hungarianWord": "múlt",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "hungarianWord": "puha",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "hungarianWord": "tréfa",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "hungarianWord": "fényes",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "hungarianWord": "gáz",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "hungarianWord": "Időjárás",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "hungarianWord": "hónap",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "hungarianWord": "millió",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "hungarianWord": "medve",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "hungarianWord": "befejez",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "hungarianWord": "boldog",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "hungarianWord": "remény",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "hungarianWord": "virág",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "hungarianWord": "öltöztet",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "hungarianWord": "furcsa",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "hungarianWord": "elmúlt",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "hungarianWord": "kereskedelem",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "hungarianWord": "dallam",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "hungarianWord": "utazás",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "hungarianWord": "iroda",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "hungarianWord": "kap",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "hungarianWord": "sor",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "hungarianWord": "száj",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "hungarianWord": "pontos",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "hungarianWord": "szimbólum",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "hungarianWord": "meghal",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "hungarianWord": "legkevésbé",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "hungarianWord": "baj",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "hungarianWord": "kiáltás",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "hungarianWord": "kivéve",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "hungarianWord": "írta",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "hungarianWord": "mag",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "hungarianWord": "tónus",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "hungarianWord": "csatlakozik",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "hungarianWord": "javasol",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "hungarianWord": "tiszta",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "hungarianWord": "szünet",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "hungarianWord": "hölgy",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "hungarianWord": "udvar",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "hungarianWord": "emelkedik",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "hungarianWord": "rossz",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "hungarianWord": "csapás",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "hungarianWord": "olaj",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "hungarianWord": "vér",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "hungarianWord": "érintés",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "hungarianWord": "nőtt",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "hungarianWord": "cent",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "hungarianWord": "mix",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "hungarianWord": "csapat",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "hungarianWord": "drót",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "hungarianWord": "költség",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "hungarianWord": "elveszett",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "hungarianWord": "barna",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "hungarianWord": "kopás",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "hungarianWord": "kert",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "hungarianWord": "egyenlő",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "hungarianWord": "küldött",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "hungarianWord": "választani",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "hungarianWord": "esett",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "hungarianWord": "megfelelő",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "hungarianWord": "folyik",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "hungarianWord": "vásár",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "hungarianWord": "bankot",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "hungarianWord": "gyűjt",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "hungarianWord": "kivéve",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "hungarianWord": "vezérlés",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "hungarianWord": "decimális",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "hungarianWord": "fül",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "hungarianWord": "más",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "hungarianWord": "egészen",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "hungarianWord": "tört",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "hungarianWord": "ügy",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "hungarianWord": "középső",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "hungarianWord": "megöl",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "hungarianWord": "fiú",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "hungarianWord": "tó",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "hungarianWord": "pillanat",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "hungarianWord": "skála",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "hungarianWord": "hangos",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "hungarianWord": "tavasz",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "hungarianWord": "tartsa",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "hungarianWord": "gyermek",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "hungarianWord": "egyenes",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "hungarianWord": "mássalhangzó",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "hungarianWord": "nemzet",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "hungarianWord": "szótár",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "hungarianWord": "tej",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "hungarianWord": "sebesség",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "hungarianWord": "módszer",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "hungarianWord": "orgona",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "hungarianWord": "fizet",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "hungarianWord": "életkor",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "hungarianWord": "rész",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "hungarianWord": "ruha",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "hungarianWord": "felhő",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "hungarianWord": "meglepetés",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "hungarianWord": "csendes",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "hungarianWord": "kő",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "hungarianWord": "apró",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "hungarianWord": "mászás",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "hungarianWord": "hűvös",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "hungarianWord": "tervezés",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "hungarianWord": "szegény",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "hungarianWord": "sok",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "hungarianWord": "kísérlet",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "hungarianWord": "alsó",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "hungarianWord": "kulcs",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "hungarianWord": "vas",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "hungarianWord": "egyetlen",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "hungarianWord": "bot",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "hungarianWord": "lapos",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "hungarianWord": "húsz",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "hungarianWord": "bőr",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "hungarianWord": "mosoly",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "hungarianWord": "ránc",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "hungarianWord": "lyuk",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "hungarianWord": "ugrás",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "hungarianWord": "baba",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "hungarianWord": "nyolc",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "hungarianWord": "falu",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "hungarianWord": "találkozik",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "hungarianWord": "gyökér",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "hungarianWord": "vásárolni",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "hungarianWord": "fel",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "hungarianWord": "megoldani",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "hungarianWord": "fém",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "hungarianWord": "akár",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "hungarianWord": "nyomja",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "hungarianWord": "hét",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "hungarianWord": "bekezdés",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "hungarianWord": "harmadik",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "hungarianWord": "kell",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "hungarianWord": "tartotta",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "hungarianWord": "haj",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "hungarianWord": "leírni",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "hungarianWord": "szakács",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "hungarianWord": "emelet",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "hungarianWord": "vagy",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "hungarianWord": "eredmény",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "hungarianWord": "éget",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "hungarianWord": "hegy",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "hungarianWord": "biztonságos",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "hungarianWord": "macska",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "hungarianWord": "század",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "hungarianWord": "figyelembe",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "hungarianWord": "típus",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "hungarianWord": "törvény",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "hungarianWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "hungarianWord": "tengerpart",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "hungarianWord": "másolat",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "hungarianWord": "kifejezés",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "hungarianWord": "csendes",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "hungarianWord": "magas",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "hungarianWord": "homok",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "hungarianWord": "talaj",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "hungarianWord": "tekercs",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "hungarianWord": "hőmérséklet",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "hungarianWord": "ujj",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "hungarianWord": "ipar",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "hungarianWord": "érték",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "hungarianWord": "harc",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "hungarianWord": "hazugság",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "hungarianWord": "üt",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "hungarianWord": "gerjeszti",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "hungarianWord": "természetes",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "hungarianWord": "nézet",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "hungarianWord": "értelme",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "hungarianWord": "tőke",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "hungarianWord": "nem fog",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "hungarianWord": "szék",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "hungarianWord": "veszély",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "hungarianWord": "gyümölcs",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "hungarianWord": "gazdag",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "hungarianWord": "vastag",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "hungarianWord": "katona",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "hungarianWord": "folyamat",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "hungarianWord": "működik",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "hungarianWord": "gyakorlat",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "hungarianWord": "külön",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "hungarianWord": "nehéz",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "hungarianWord": "orvos",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "hungarianWord": "kérem",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "hungarianWord": "védelme",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "hungarianWord": "dél",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "hungarianWord": "termés",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "hungarianWord": "modern",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "hungarianWord": "elem",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "hungarianWord": "hit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "hungarianWord": "diák",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "hungarianWord": "sarok",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "hungarianWord": "fél",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "hungarianWord": "ellátás",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "hungarianWord": "akinek",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "hungarianWord": "elhelyez",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "hungarianWord": "gyűrű",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "hungarianWord": "betű",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "hungarianWord": "rovar",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "hungarianWord": "fogott",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "hungarianWord": "időszak",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "hungarianWord": "azt mutatják,",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "hungarianWord": "rádió",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "hungarianWord": "küllős",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "hungarianWord": "atomnak",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "hungarianWord": "emberi",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "hungarianWord": "történelem",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "hungarianWord": "hatás",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "hungarianWord": "elektromos",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "hungarianWord": "vár",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "hungarianWord": "csont",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "hungarianWord": "sín",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "hungarianWord": "képzelni",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "hungarianWord": "hogy",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "hungarianWord": "egyetért",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "hungarianWord": "így",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "hungarianWord": "szelíd",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "hungarianWord": "nő",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "hungarianWord": "kapitány",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "hungarianWord": "gondolom",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "hungarianWord": "szükséges",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "hungarianWord": "éles",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "hungarianWord": "szárny",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "hungarianWord": "teremt",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "hungarianWord": "szomszéd",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "hungarianWord": "mosás",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "hungarianWord": "denevér",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "hungarianWord": "inkább",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "hungarianWord": "tömeg",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "hungarianWord": "kukorica",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "hungarianWord": "összehasonlítása",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "hungarianWord": "vers",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "hungarianWord": "húr",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "hungarianWord": "Bell",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "hungarianWord": "függ",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "hungarianWord": "hús",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "hungarianWord": "dörzsölje",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "hungarianWord": "cső",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "hungarianWord": "híres",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "hungarianWord": "dollárral",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "hungarianWord": "folyam",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "hungarianWord": "félelem",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "hungarianWord": "látvány",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "hungarianWord": "vékony",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "hungarianWord": "háromszög",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "hungarianWord": "bolygó",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "hungarianWord": "siess",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "hungarianWord": "főnök",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "hungarianWord": "kolónia",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "hungarianWord": "óra",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "hungarianWord": "az enyém",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "hungarianWord": "nyakkendő",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "hungarianWord": "be",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "hungarianWord": "nagyobb",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "hungarianWord": "friss",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "hungarianWord": "keresés",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "hungarianWord": "küld",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "hungarianWord": "sárga",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "hungarianWord": "pisztoly",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "hungarianWord": "hogy",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "hungarianWord": "nyomtatás",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "hungarianWord": "halott",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "hungarianWord": "folt",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "hungarianWord": "sivatag",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "hungarianWord": "öltöny",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "hungarianWord": "jelenlegi",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "hungarianWord": "lift",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "hungarianWord": "rózsa",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "hungarianWord": "megérkezik",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "hungarianWord": "gazda",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "hungarianWord": "pálya",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "hungarianWord": "szülő",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "hungarianWord": "part",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "hungarianWord": "osztás",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "hungarianWord": "ív",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "hungarianWord": "anyag",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "hungarianWord": "előnyben",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "hungarianWord": "összekapcsol",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "hungarianWord": "posta",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "hungarianWord": "költ",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "hungarianWord": "akkord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "hungarianWord": "zsír",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "hungarianWord": "boldog",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "hungarianWord": "eredeti",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "hungarianWord": "részvény",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "hungarianWord": "állomás",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "hungarianWord": "apa",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "hungarianWord": "kenyér",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "hungarianWord": "díj",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "hungarianWord": "megfelelő",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "hungarianWord": "bár",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "hungarianWord": "kínálat",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "hungarianWord": "szegmens",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "hungarianWord": "rabszolga",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "hungarianWord": "kacsa",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "hungarianWord": "azonnali",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "hungarianWord": "piac",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "hungarianWord": "fok",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "hungarianWord": "benépesít",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "hungarianWord": "csaj",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "hungarianWord": "kedves",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "hungarianWord": "ellenség",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "hungarianWord": "válasz",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "hungarianWord": "ital",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "hungarianWord": "előfordul",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "hungarianWord": "támogatás",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "hungarianWord": "beszéd",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "hungarianWord": "természet",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "hungarianWord": "tartomány",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "hungarianWord": "gőz",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "hungarianWord": "mozgás",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "hungarianWord": "út",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "hungarianWord": "folyadék",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "hungarianWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "hungarianWord": "jelentett",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "hungarianWord": "hányados",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "hungarianWord": "fogak",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "hungarianWord": "kagyló",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "hungarianWord": "nyak",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "hungarianWord": "oxigén",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "hungarianWord": "cukor",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "hungarianWord": "halál",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "hungarianWord": "szép",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "hungarianWord": "készség",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "hungarianWord": "nők",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "hungarianWord": "szezon",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "hungarianWord": "megoldás",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "hungarianWord": "mágnes",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "hungarianWord": "ezüst",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "hungarianWord": "köszönöm",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "hungarianWord": "ág",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "hungarianWord": "mérkőzés",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "hungarianWord": "utótag",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "hungarianWord": "különösen",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "hungarianWord": "füge",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "hungarianWord": "fél",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "hungarianWord": "hatalmas",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "hungarianWord": "nővére",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "hungarianWord": "acél",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "hungarianWord": "megvitassák",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "hungarianWord": "előre",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "hungarianWord": "hasonló",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "hungarianWord": "útmutató",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "hungarianWord": "tapasztalat",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "hungarianWord": "pontszám",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "hungarianWord": "alma",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "hungarianWord": "vásárolt",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "hungarianWord": "vezetett",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "hungarianWord": "pályán",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "hungarianWord": "kabát",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "hungarianWord": "tömeg",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "hungarianWord": "kártya",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "hungarianWord": "zenekar",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "hungarianWord": "kötél",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "hungarianWord": "csúszás",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "hungarianWord": "győzelem",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "hungarianWord": "álom",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "hungarianWord": "este",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "hungarianWord": "állapot",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "hungarianWord": "etet",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "hungarianWord": "eszköz",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "hungarianWord": "teljes",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "hungarianWord": "alapvető",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "hungarianWord": "szag",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "hungarianWord": "völgy",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "hungarianWord": "sem",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "hungarianWord": "dupla",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "hungarianWord": "ülés",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "hungarianWord": "tovább",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "hungarianWord": "blokk",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "hungarianWord": "chart",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "hungarianWord": "kalap",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "hungarianWord": "elad",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "hungarianWord": "siker",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "hungarianWord": "társaság",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "hungarianWord": "levon",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "hungarianWord": "esemény",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "hungarianWord": "különös",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "hungarianWord": "üzlet",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "hungarianWord": "úszás",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "hungarianWord": "kifejezés",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "hungarianWord": "szemben",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "hungarianWord": "feleség",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "hungarianWord": "cipő",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "hungarianWord": "váll",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "hungarianWord": "terjedését",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "hungarianWord": "intézkedik",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "hungarianWord": "tábor",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "hungarianWord": "feltalál",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "hungarianWord": "pamut",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "hungarianWord": "születése",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "hungarianWord": "határozza meg",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "hungarianWord": "liter",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "hungarianWord": "kilenc",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "hungarianWord": "teherautó",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "hungarianWord": "zaj",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "hungarianWord": "szint",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "hungarianWord": "esély",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "hungarianWord": "gyűjt",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "hungarianWord": "üzlet",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "hungarianWord": "szakaszon",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "hungarianWord": "dobja",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "hungarianWord": "ragyog",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "hungarianWord": "ingatlan",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "hungarianWord": "oszlop",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "hungarianWord": "molekula",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "hungarianWord": "válassza",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "hungarianWord": "rossz",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "hungarianWord": "szürke",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "hungarianWord": "ismétlés",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "hungarianWord": "szükség",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "hungarianWord": "széles",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "hungarianWord": "előkészítése",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "hungarianWord": "só",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "hungarianWord": "orr",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "hungarianWord": "többes",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "hungarianWord": "harag",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "hungarianWord": "igény",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "hungarianWord": "kontinens",
+      "englishWord": "continent"
+    }
+  ]
+}
