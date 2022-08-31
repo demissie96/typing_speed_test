@@ -1,39 +1,53 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Header from "./Header";
 import myJson from "../words_list_1000.json";
 
 function App() {
+  const [wordList, setWordList] = useState("");
+
   // The highest typing speed ever recorded was 216 words per minute (wpm),
   // so make a list of 300 random words.
   var hungarianList = [];
   var englishList = [];
 
-  for (let index = 0; index < 300; index++) {
-    // Generate random number between 0 and 1000
-    let randomNum = Math.floor(Math.random() * 1001);
+  function Generate300Words() {
+    for (let index = 0; index < 300; index++) {
+      // Generate random number between 0 and 1000
+      let randomNum = Math.floor(Math.random() * 1001);
 
-    hungarianList.push(myJson.words[randomNum].hungarianWord);
-    englishList.push(myJson.words[randomNum].englishWord);
-    hungarianList.push(" ");
-    englishList.push(" ");
+      hungarianList.push(myJson.words[randomNum].hungarianWord);
+      englishList.push(myJson.words[randomNum].englishWord);
+      hungarianList.push(" ");
+      englishList.push(" ");
+    }
+    console.log(hungarianList);
+    console.log(englishList);
   }
-  console.log(hungarianList);
-  console.log(englishList);
 
-  const wordList = hungarianList.map((item) => (
-    // wordBoxes is for measuring the element width with 'offsetWidth'
-    <div
-      className="wordBoxes"
-      style={{ fontSize: "30px", color: "white", height: "34px" }}
-    >
-      {item}
-    </div>
-  ));
+  // Run functions on initial rendering
+  useEffect(() => {
+    // On keypress, analyze the letter whether it's correct or not
+    document.addEventListener("keydown", (event) => {
+      console.log(event.key);
+    });
+    Generate300Words();
+    setWordList(
+      hungarianList.map((item) => (
+        // wordBoxes is for measuring the element width with 'offsetWidth'
+        <div
+          className="wordBoxes"
+          style={{ fontSize: "30px", color: "white", height: "34px" }}
+        >
+          {item}
+        </div>
+      ))
+    );
+  }, []);
 
   return (
     <>
       <Header />
-      <div id="workingArea" style={{ height: "128"}}>
+      <div id="workingArea" style={{ height: "128" }}>
         <div
           id="coverElement1"
           style={{
