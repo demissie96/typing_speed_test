@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Header from "./Header";
 import myJson from "../words_list_1000.json";
+import Timer from "./Timer";
 
 var englishList = [];
 var wordCount = 0;
@@ -31,6 +32,7 @@ function Generate300Words() {
 function App() {
   const [wordList, setWordList] = useState("");
   const [scrollText, setScrollText] = useState(scroll);
+  const [timerOn, setTimerOn] = useState(false);
 
   function Scrolling(element) {
     if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
@@ -75,6 +77,11 @@ function App() {
   useEffect(() => {
     // On keypress, analyze the letter whether it's correct or not
     document.addEventListener("keydown", (event) => {
+      // Start timer
+      if (timerOn === false) {
+        setTimerOn(true);
+      }
+      // On space press
       if (event.key === " ") {
         let inputValue = document.getElementById("input");
         CheckInputWord(inputValue.value);
@@ -175,6 +182,9 @@ function App() {
                 autoComplete="off"
                 autoFocus="true"
               />
+              {timerOn && (
+                <Timer />
+              )}
             </div>
           </div>
         </div>
