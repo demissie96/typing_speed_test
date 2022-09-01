@@ -23,18 +23,24 @@ function Generate300Words() {
       id: indexNum,
       word: myJson.words[randomNum].englishWord,
     });
-    // englishList.push(myJson.words[randomNum].englishWord);
     indexNum++;
     englishList.push({ id: indexNum, word: " " });
-    // englishList.push(" ");
   }
   console.log(englishList);
-  // console.log(englishList);
 }
 
 function App() {
   const [wordList, setWordList] = useState("");
   const [scrollText, setScrollText] = useState(scroll);
+
+  function Scrolling(element) {
+    if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
+      scroll -= 34;
+
+      wordsWidth = element.offsetWidth;
+      setScrollText(scroll);
+    }
+  }
 
   function CheckInputWord(input) {
     wordCount++;
@@ -42,7 +48,6 @@ function App() {
     console.log(
       `Current word / input word: ${currentElement.textContent} / ${input}`
     );
-   
 
     if (
       currentElement.textContent === input ||
@@ -56,27 +61,24 @@ function App() {
       wrongWord++;
     }
 
-    console.log("width of the textbox: " + document.getElementById("displayWords").offsetWidth)
+    console.log(
+      "width of the textbox: " +
+        document.getElementById("displayWords").offsetWidth
+    );
     wordsWidth += currentElement.offsetWidth;
+    console.log(currentElement.offsetWidth);
+
     // Scrolling function
-    if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
-      console.log(`scrollText: ${scrollText}`);
-      scroll -= 34;
-      setScrollText(scroll);
-      wordsWidth = currentElement.offsetWidth;
-    }
+    Scrolling(currentElement);
+
     wordCount++;
     var spaceElement = document.getElementById(`${wordCount}`);
     wordsWidth += spaceElement.offsetWidth;
+    console.log(spaceElement.offsetWidth);
 
     // Scrolling function
-    if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
-      console.log(`scrollText: ${scrollText}`);
-      scroll -= 34;
-      setScrollText(scroll);
-      wordsWidth = currentElement.offsetWidth;
-    }
-    console.log(currentElement.offsetWidth);
+    Scrolling(spaceElement);
+
     console.log(wordsWidth);
   }
 
@@ -85,9 +87,7 @@ function App() {
     // On keypress, analyze the letter whether it's correct or not
     document.addEventListener("keydown", (event) => {
       if (event.key === " ") {
-        console.log("SPAAAAAACEEEE");
         let inputValue = document.getElementById("input");
-        console.log("value: " + inputValue.value);
         CheckInputWord(inputValue.value);
         inputValue.value = "";
       }
@@ -137,8 +137,10 @@ function App() {
             flexWrap: "wrap",
             justifyContent: "flex-start",
             margin: "0 auto 0",
+            padding: "0",
             // this moves the text with 34px = 1 row
             top: `${scrollText}px`,
+            zIndex: 0,
           }}
         >
           {wordList}
@@ -181,6 +183,8 @@ function App() {
                 type="text"
                 id="input"
                 name="input"
+                autoComplete="off"
+                autoFocus="true"
                 onChange={(e) => {
                   console.log(e.target.value);
                 }}
