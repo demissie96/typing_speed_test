@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import Header from "./Header";
 import myJson from "../words_list_1000.json";
 
-var hungarianList = [];
 var englishList = [];
 var wordCount = 0;
 var wordsWidth = 0;
@@ -20,16 +19,16 @@ function Generate300Words() {
     let randomNum = Math.floor(Math.random() * 1001);
     indexNum++;
 
-    hungarianList.push({
+    englishList.push({
       id: indexNum,
-      word: myJson.words[randomNum].hungarianWord,
+      word: myJson.words[randomNum].englishWord,
     });
     // englishList.push(myJson.words[randomNum].englishWord);
     indexNum++;
-    hungarianList.push({ id: indexNum, word: " " });
+    englishList.push({ id: indexNum, word: " " });
     // englishList.push(" ");
   }
-  console.log(hungarianList);
+  console.log(englishList);
   // console.log(englishList);
 }
 
@@ -47,7 +46,7 @@ function App() {
 
     if (
       currentElement.textContent === input ||
-      ` ${currentElement.textContent}` == input
+      ` ${currentElement.textContent}` === input
     ) {
       console.log("nem hali");
       currentElement.style.color = "green";
@@ -96,7 +95,7 @@ function App() {
     Generate300Words();
     setTimeout(() => {
       setWordList(
-        hungarianList.map((item) => (
+        englishList.map((item) => (
           // wordBoxes is for measuring the element width with 'offsetWidth'
           <div
             id={`${item.id}`}
