@@ -6,9 +6,14 @@ var hungarianList = [];
 var englishList = [];
 var letterCount = 0;
 var wordsWidth = 0;
+var correctWord = 0;
+var wrongWord = 0;
 
 function Generate300Words() {
   let indexNum = 0;
+  // The highest typing speed ever recorded was 216 words per minute (wpm),
+  // so make a list of 300 random words.
+
   for (let index = 0; index < 300; index++) {
     // Generate random number between 0 and 1000
     let randomNum = Math.floor(Math.random() * 1001);
@@ -31,14 +36,55 @@ function App() {
   const [wordList, setWordList] = useState("");
   const [scrollText, setScrollText] = useState(0);
 
-  // The highest typing speed ever recorded was 216 words per minute (wpm),
-  // so make a list of 300 random words.
+  function CheckInputWord(input) {
+    letterCount++;
+    var currentElement = document.getElementById(`${letterCount}`);
+    console.log(`Current word / input word: ${currentElement.textContent} / ${input}` );
+    console.log(currentElement.offsetWidth);
+    console.log(wordsWidth);
+
+    if ( letterCount === 1) {
+      if (currentElement.textContent === input) {
+        console.log("nem hali")
+        currentElement.style.color = "green";
+        correctWord++;
+      } else {
+        currentElement.style.color = "red";
+        wrongWord++;
+      }
+    } else {
+      console.log("hali")
+      console.log(`${input}`)
+      if (` ${currentElement.textContent}` == input) {
+        
+        currentElement.style.color = "green";
+        correctWord++;
+      } else {
+        currentElement.style.color = "red";
+        wrongWord++;
+      }
+    }
+    
+
+    letterCount++;
+    wordsWidth += currentElement.offsetWidth;
+    if (wordsWidth > 800) {
+      setScrollText(scrollText - 34);
+      wordsWidth = currentElement.offsetWidth;
+    }
+  }
 
   // Run functions on initial rendering
   useEffect(() => {
     // On keypress, analyze the letter whether it's correct or not
     document.addEventListener("keydown", (event) => {
-      console.log(event.key);
+      if (event.key === " ") {
+        console.log("SPAAAAAACEEEE");
+        let inputValue = document.getElementById("input");
+        console.log("value: " + inputValue.value);
+        CheckInputWord(inputValue.value);
+        inputValue.value = "";
+      }
     });
     Generate300Words();
     setTimeout(() => {
@@ -106,47 +152,6 @@ function App() {
           }}
         >
           <div>
-            <button onClick={() => setScrollText(scrollText - 34)}>
-              Scroll down
-            </button>
-            <button
-              onClick={() => {
-                letterCount++;
-                var currentElement = document.getElementById(`${letterCount}`);
-                console.log(currentElement);
-                console.log(currentElement.offsetWidth);
-                console.log(wordsWidth);
-                currentElement.style.color = "green";
-                wordsWidth += currentElement.offsetWidth;
-                if (wordsWidth > 800) {
-                  setScrollText(scrollText - 34);
-                  wordsWidth = currentElement.offsetWidth;
-                }
-              }}
-            >
-              Step green
-            </button>
-            <button
-              onClick={() => {
-                letterCount++;
-                var currentElement = document.getElementById(`${letterCount}`);
-                console.log(currentElement);
-                currentElement.style.color = "red";
-              }}
-            >
-              Step red
-            </button>
-            <button
-              onClick={() => {
-                var currentElement = document.getElementById(`${letterCount}`);
-                console.log(currentElement);
-                currentElement.style.color = "white";
-                letterCount--;
-              }}
-            >
-              Step back
-            </button>
-            <br></br>
             <div style={{ textAlign: "center" }}>
               <h1
                 style={{
@@ -165,10 +170,14 @@ function App() {
                   color: "white",
                   fontFamily: "serif",
                   textAlign: "center",
+                  backgroundColor: "#191919",
                 }}
                 type="text"
                 id="input"
                 name="input"
+                onChange={(e) => {
+                  console.log(e.target.value);
+                }}
               />
             </div>
           </div>
