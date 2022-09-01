@@ -4,19 +4,27 @@ import myJson from "../words_list_1000.json";
 
 var hungarianList = [];
 var englishList = [];
+var letterCount = 0;
+var wordsWidth = 0;
 
 function Generate300Words() {
+  let indexNum = 0;
   for (let index = 0; index < 300; index++) {
     // Generate random number between 0 and 1000
     let randomNum = Math.floor(Math.random() * 1001);
+    indexNum++;
 
-    hungarianList.push(myJson.words[randomNum].hungarianWord);
-    englishList.push(myJson.words[randomNum].englishWord);
-    hungarianList.push(" ");
-    englishList.push(" ");
+    hungarianList.push({
+      id: indexNum,
+      word: myJson.words[randomNum].hungarianWord,
+    });
+    // englishList.push(myJson.words[randomNum].englishWord);
+    indexNum++;
+    hungarianList.push({ id: indexNum, word: " " });
+    // englishList.push(" ");
   }
   console.log(hungarianList);
-  console.log(englishList);
+  // console.log(englishList);
 }
 
 function App() {
@@ -38,10 +46,11 @@ function App() {
         hungarianList.map((item) => (
           // wordBoxes is for measuring the element width with 'offsetWidth'
           <div
-            className="wordBoxes"
+            id={`${item.id}`}
+            key={item.id}
             style={{ fontSize: "30px", color: "white", height: "34px" }}
           >
-            {item}
+            {item.word}
           </div>
         ))
       );
@@ -99,6 +108,40 @@ function App() {
           <div>
             <button onClick={() => setScrollText(scrollText - 34)}>
               Scroll down
+            </button>
+            <button
+              onClick={() => {
+                letterCount++;
+                var currentElement = document.getElementById(`${letterCount}`);
+                console.log(currentElement);
+                console.log(currentElement.offsetWidth);
+                console.log(wordsWidth);
+                currentElement.style.color = "green";
+                wordsWidth += currentElement.offsetWidth;
+                if (wordsWidth > 800) {
+                  setScrollText(scrollText - 34);
+                  wordsWidth = currentElement.offsetWidth;
+                }
+              }}
+            >
+              Step green
+            </button>
+            <button onClick={() => {
+                letterCount++;
+                var currentElement = document.getElementById(`${letterCount}`);
+                console.log(currentElement);
+                currentElement.style.color = "red";
+              }}>
+              Step red
+            </button>
+            <button onClick={() => {
+                
+                var currentElement = document.getElementById(`${letterCount}`);
+                console.log(currentElement);
+                currentElement.style.color = "white";
+                letterCount--;
+              }}>
+              Step back
             </button>
           </div>
         </div>
