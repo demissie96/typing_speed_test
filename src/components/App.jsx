@@ -8,6 +8,7 @@ var wordCount = 0;
 var wordsWidth = 0;
 var correctWord = 0;
 var wrongWord = 0;
+var scroll = 0;
 
 function Generate300Words() {
   let indexNum = 0;
@@ -34,7 +35,7 @@ function Generate300Words() {
 
 function App() {
   const [wordList, setWordList] = useState("");
-  const [scrollText, setScrollText] = useState(0);
+  const [scrollText, setScrollText] = useState(scroll);
 
   function CheckInputWord(input) {
     wordCount++;
@@ -42,8 +43,7 @@ function App() {
     console.log(
       `Current word / input word: ${currentElement.textContent} / ${input}`
     );
-    console.log(currentElement.offsetWidth);
-    console.log(wordsWidth);
+   
 
     if (
       currentElement.textContent === input ||
@@ -57,12 +57,28 @@ function App() {
       wrongWord++;
     }
 
-    wordCount++;
+    console.log("width of the textbox: " + document.getElementById("displayWords").offsetWidth)
     wordsWidth += currentElement.offsetWidth;
-    if (wordsWidth > 800) {
-      setScrollText(scrollText - 34);
+    // Scrolling function
+    if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
+      console.log(`scrollText: ${scrollText}`);
+      scroll -= 34;
+      setScrollText(scroll);
       wordsWidth = currentElement.offsetWidth;
     }
+    wordCount++;
+    var spaceElement = document.getElementById(`${wordCount}`);
+    wordsWidth += spaceElement.offsetWidth;
+
+    // Scrolling function
+    if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
+      console.log(`scrollText: ${scrollText}`);
+      scroll -= 34;
+      setScrollText(scroll);
+      wordsWidth = currentElement.offsetWidth;
+    }
+    console.log(currentElement.offsetWidth);
+    console.log(wordsWidth);
   }
 
   // Run functions on initial rendering
