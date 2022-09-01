@@ -21,6 +21,7 @@ function Generate300Words() {
 
 function App() {
   const [wordList, setWordList] = useState("");
+  const [scrollText, setScrollText] = useState(0);
 
   // The highest typing speed ever recorded was 216 words per minute (wpm),
   // so make a list of 300 random words.
@@ -32,17 +33,19 @@ function App() {
       console.log(event.key);
     });
     Generate300Words();
-    setWordList(
-      hungarianList.map((item) => (
-        // wordBoxes is for measuring the element width with 'offsetWidth'
-        <div
-          className="wordBoxes"
-          style={{ fontSize: "30px", color: "white", height: "34px" }}
-        >
-          {item}
-        </div>
-      ))
-    );
+    setTimeout(() => {
+      setWordList(
+        hungarianList.map((item) => (
+          // wordBoxes is for measuring the element width with 'offsetWidth'
+          <div
+            className="wordBoxes"
+            style={{ fontSize: "30px", color: "white", height: "34px" }}
+          >
+            {item}
+          </div>
+        ))
+      );
+    }, 500);
   }, []);
 
   return (
@@ -74,7 +77,7 @@ function App() {
             justifyContent: "flex-start",
             margin: "0 auto 0",
             // this moves the text with 34px = 1 row
-            top: "0px",
+            top: `${scrollText}px`,
           }}
         >
           {wordList}
@@ -92,7 +95,13 @@ function App() {
             top: "216px",
             zIndex: 0,
           }}
-        ></div>
+        >
+          <div>
+            <button onClick={() => setScrollText(scrollText - 34)}>
+              Scroll down
+            </button>
+          </div>
+        </div>
       </div>
     </>
   );
