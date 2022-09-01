@@ -26,7 +26,6 @@ function Generate300Words() {
     indexNum++;
     englishList.push({ id: indexNum, word: " " });
   }
-  console.log(englishList);
 }
 
 function App() {
@@ -45,15 +44,11 @@ function App() {
   function CheckInputWord(input) {
     wordCount++;
     var currentElement = document.getElementById(`${wordCount}`);
-    console.log(
-      `Current word / input word: ${currentElement.textContent} / ${input}`
-    );
 
     if (
       currentElement.textContent === input ||
       ` ${currentElement.textContent}` === input
     ) {
-      console.log("nem hali");
       currentElement.style.color = "green";
       correctWord++;
     } else {
@@ -61,12 +56,7 @@ function App() {
       wrongWord++;
     }
 
-    console.log(
-      "width of the textbox: " +
-        document.getElementById("displayWords").offsetWidth
-    );
     wordsWidth += currentElement.offsetWidth;
-    console.log(currentElement.offsetWidth);
 
     // Scrolling function
     Scrolling(currentElement);
@@ -74,12 +64,11 @@ function App() {
     wordCount++;
     var spaceElement = document.getElementById(`${wordCount}`);
     wordsWidth += spaceElement.offsetWidth;
-    console.log(spaceElement.offsetWidth);
 
     // Scrolling function
     Scrolling(spaceElement);
 
-    console.log(wordsWidth);
+    console.log(`Correct vs wrong: ${correctWord} vs. ${wrongWord}`);
   }
 
   // Run functions on initial rendering
@@ -185,9 +174,6 @@ function App() {
                 name="input"
                 autoComplete="off"
                 autoFocus="true"
-                onChange={(e) => {
-                  console.log(e.target.value);
-                }}
               />
             </div>
           </div>
