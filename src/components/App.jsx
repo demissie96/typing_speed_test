@@ -126,23 +126,51 @@ function App() {
             >
               Step green
             </button>
-            <button onClick={() => {
+            <button
+              onClick={() => {
                 letterCount++;
                 var currentElement = document.getElementById(`${letterCount}`);
                 console.log(currentElement);
                 currentElement.style.color = "red";
-              }}>
+              }}
+            >
               Step red
             </button>
-            <button onClick={() => {
-                
+            <button
+              onClick={() => {
                 var currentElement = document.getElementById(`${letterCount}`);
                 console.log(currentElement);
                 currentElement.style.color = "white";
                 letterCount--;
-              }}>
+              }}
+            >
               Step back
             </button>
+            <br></br>
+            <div style={{ textAlign: "center" }}>
+              <h1
+                style={{
+                  marginTop: "60px",
+                  fontFamily: "Dancing Script, cursive",
+                  color: "#ECDBBA",
+                }}
+              >
+                Start Typing
+              </h1>
+              <input
+                style={{
+                  height: "40px",
+                  width: "600px",
+                  fontSize: "30px",
+                  color: "white",
+                  fontFamily: "serif",
+                  textAlign: "center",
+                }}
+                type="text"
+                id="input"
+                name="input"
+              />
+            </div>
           </div>
         </div>
       </div>
