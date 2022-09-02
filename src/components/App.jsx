@@ -6,20 +6,18 @@ import Result from "./Result";
 
 var englishList = [];
 var wordCount = 0;
-var wordsWidth = 0;
+var wordsWidth = 0; // Sum of the words' width in a row
 var correctWord = 0;
 var wrongWord = 0;
 var scroll = 0;
 var sec = 60;
 var timer = false;
-// For preventing timer to set true on keypress
-var dontChangeTimer = false;
+var dontChangeTimer = false; // For preventing timer to set true on keypress
 
+// The highest typing speed ever recorded was 216 words per minute (wpm),
+// so make a list of 280 random words.
 function Generate280Words() {
   let indexNum = 0;
-  // The highest typing speed ever recorded was 216 words per minute (wpm),
-  // so make a list of 280 random words.
-
   for (let index = 0; index < 280; index++) {
     // Generate random number between 0 and 1000
     let randomNum = Math.floor(Math.random() * 1001);
@@ -41,14 +39,18 @@ function App() {
   const [second, setSecond] = useState(sec);
   const [showResult, setShowResult] = useState(false);
 
+  // Start the countdown 
   function StartCounting() {
-    timer = true;
-    setTimerOn(true);
+    timer = true;    
+    setTimerOn(true); // For conditional rendering Timer component
+
+    // Countdown process
     var myInterval = setInterval(() => {
       setSecond((prevCount) => prevCount - 1);
       sec--;
       console.log(sec);
 
+      // Stop the countdown when it reaches 0s
       if (sec === 0) {
         timer = false;
         dontChangeTimer = true;
@@ -62,16 +64,19 @@ function App() {
     return () => clearInterval();
   }
 
+  // Scroll when the words' width in a row is greater than the flexbox width
   function Scrolling(element) {
     if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
-      scroll -= 34;
-
+      scroll -= 34;      
+      // After scrolling, make the first element width equal to wordsWidth
       wordsWidth = element.offsetWidth;
-      setScrollText(scroll);
+
+      setScrollText(scroll); // Do the scrolling
     }
   }
 
   function CheckInputWord(input) {
+    // Get the next word to be checked from the list
     wordCount++;
     var currentElement = document.getElementById(`${wordCount}`);
 
@@ -79,18 +84,19 @@ function App() {
       currentElement.textContent === input ||
       ` ${currentElement.textContent}` === input
     ) {
-      currentElement.style.color = "#06FF00";
+      currentElement.style.color = "#06FF00"; // Change correct word style to green,
       correctWord++;
     } else {
-      currentElement.style.color = "#FF1700";
+      currentElement.style.color = "#FF1700"; // Change wrong word style to red,
       wrongWord++;
     }
 
-    wordsWidth += currentElement.offsetWidth;
+    wordsWidth += currentElement.offsetWidth; 
 
     // Scrolling function
     Scrolling(currentElement);
-
+    
+    // Check space element width for scrolling
     wordCount++;
     var spaceElement = document.getElementById(`${wordCount}`);
     wordsWidth += spaceElement.offsetWidth;
@@ -105,15 +111,16 @@ function App() {
   useEffect(() => {
     Generate280Words();
 
-    // On keypress, analyze the letter whether it's correct or not
+    // On keypress
     document.addEventListener("keydown", (event) => {
-      // Start timer
+      // Start timer on first keypress and prevent restart timer with dontChangeTimer
+      // when timer reach 0 
       if (timer === false && dontChangeTimer === false) {
         timer = true;
         setTimerOn(true);
         StartCounting();
       }
-      // On space press
+      // On space press check input value and make the input box empty
       if (event.key === " " && timer === true) {
         let inputValue = document.getElementById("input");
         CheckInputWord(inputValue.value);
@@ -121,20 +128,19 @@ function App() {
       }
     });
 
-    setTimeout(() => {
-      setWordList(
-        englishList.map((item) => (
-          // wordBoxes is for measuring the element width with 'offsetWidth'
-          <div
-            id={`${item.id}`}
-            key={item.id}
-            style={{ fontSize: "25px", color: "white", height: "34px" }}
-          >
-            {item.word}
-          </div>
-        ))
-      );
-    }, 500);
+    // Render the random list of words
+    setWordList(
+      englishList.map((item) => (
+        <div
+          id={`${item.id}`}
+          key={item.id}
+          style={{ fontSize: "25px", color: "white", height: "34px" }}
+        >
+          {item.word}
+        </div>
+      ))
+    );
+   
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
