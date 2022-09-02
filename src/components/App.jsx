@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Header from "./Header";
 import myJson from "../words_list_1000.json";
 import Timer from "./Timer";
+import Result from "./Result";
 
 var englishList = [];
 var wordCount = 0;
@@ -9,15 +10,17 @@ var wordsWidth = 0;
 var correctWord = 0;
 var wrongWord = 0;
 var scroll = 0;
-var sec = 3;
+var sec = 10;
 var timer = false;
+// For preventing timer to set true on keypress
+var dontChangeTimer = false;
 
 function Generate300Words() {
   let indexNum = 0;
   // The highest typing speed ever recorded was 216 words per minute (wpm),
-  // so make a list of 300 random words.
+  // so make a list of 280 random words.
 
-  for (let index = 0; index < 300; index++) {
+  for (let index = 0; index < 280; index++) {
     // Generate random number between 0 and 1000
     let randomNum = Math.floor(Math.random() * 1001);
     indexNum++;
@@ -35,7 +38,8 @@ function App() {
   const [wordList, setWordList] = useState("");
   const [scrollText, setScrollText] = useState(scroll);
   const [timerOn, setTimerOn] = useState(timer);
-  const [second, setSecond] = useState(3);
+  const [second, setSecond] = useState(sec);
+  const [showResult, setShowResult] = useState(false);
 
   function StartCounting() {
     timer = true;
@@ -44,10 +48,13 @@ function App() {
       setSecond((prevCount) => prevCount - 1);
       sec--;
       console.log(sec);
+
       if (sec === 0) {
         timer = false;
+        dontChangeTimer = true;
         setTimerOn(false);
         clearInterval(myInterval);
+        setShowResult(true);
       }
     }, 1000);
 
@@ -99,7 +106,7 @@ function App() {
     // On keypress, analyze the letter whether it's correct or not
     document.addEventListener("keydown", (event) => {
       // Start timer
-      if (timer === false) {
+      if (timer === false && dontChangeTimer === false) {
         timer = true;
         setTimerOn(true);
         StartCounting();
@@ -206,6 +213,9 @@ function App() {
                 autoFocus="true"
               />
               {timerOn && <Timer second={second} />}
+              {showResult && (
+                <Result correctWords={correctWord} wrongWords={wrongWord} />
+              )}
             </div>
           </div>
         </div>

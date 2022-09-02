@@ -8,7 +8,7 @@ function Timer(props) {
           style={{
             color: "#C84B31",
             marginTop: "60px",
-            fontSize: "40px",
+            fontSize: "60px",
             fontFamily: "Dancing Script, cursive",
           }}
         >
