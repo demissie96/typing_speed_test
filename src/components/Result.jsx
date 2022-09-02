@@ -18,7 +18,7 @@ function Result(props) {
             fontFamily: "Dancing Script, cursive",
           }}
         >
-          Your Speed: {props.correctWords} wpm
+          Speed: {props.correctWords} wpm
         </h1>
         <h5 style={{ color: "#ECDBBA" }}>
           Correct Words:{" "}

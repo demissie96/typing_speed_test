@@ -10,7 +10,7 @@ var wordsWidth = 0;
 var correctWord = 0;
 var wrongWord = 0;
 var scroll = 0;
-var sec = 10;
+var sec = 60;
 var timer = false;
 // For preventing timer to set true on keypress
 var dontChangeTimer = false;
@@ -27,7 +27,7 @@ function Generate280Words() {
 
     englishList.push({
       id: indexNum,
-      word: myJson.words[randomNum].englishWord,
+      word: myJson.words[randomNum]?.englishWord,
     });
     indexNum++;
     englishList.push({ id: indexNum, word: " " });
@@ -79,10 +79,10 @@ function App() {
       currentElement.textContent === input ||
       ` ${currentElement.textContent}` === input
     ) {
-      currentElement.style.color = "green";
+      currentElement.style.color = "#06FF00";
       correctWord++;
     } else {
-      currentElement.style.color = "red";
+      currentElement.style.color = "#FF1700";
       wrongWord++;
     }
 
@@ -114,7 +114,7 @@ function App() {
         StartCounting();
       }
       // On space press
-      if (event.key === " ") {
+      if (event.key === " " && timer === true) {
         let inputValue = document.getElementById("input");
         CheckInputWord(inputValue.value);
         inputValue.value = "";
@@ -128,7 +128,7 @@ function App() {
           <div
             id={`${item.id}`}
             key={item.id}
-            style={{ fontSize: "30px", color: "white", height: "34px" }}
+            style={{ fontSize: "25px", color: "white", height: "34px" }}
           >
             {item.word}
           </div>
@@ -202,11 +202,10 @@ function App() {
                 </h1>
                 <input
                   style={{
-                    height: "40px",
+                    height: "45px",
                     width: "600px",
-                    fontSize: "30px",
+                    fontSize: "25px",
                     color: "white",
-                    fontFamily: "serif",
                     textAlign: "center",
                     backgroundColor: "#191919",
                   }}
