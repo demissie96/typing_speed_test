@@ -1,4 +1,5 @@
 import React from "react";
+import "./Result.css";
 
 function Result(props) {
   return (
@@ -19,7 +20,7 @@ function Result(props) {
         >
           Your Speed: {props.correctWords} wpm
         </h1>
-        <h3 style={{ color: "#ECDBBA" }}>
+        <h5 style={{ color: "#ECDBBA" }}>
           Correct Words:{" "}
           <span
             style={{
@@ -28,8 +29,8 @@ function Result(props) {
           >
             {props.correctWords}
           </span>
-        </h3>
-        <h3 style={{ color: "#ECDBBA" }}>
+        </h5>
+        <h5 style={{ color: "#ECDBBA" }}>
           Wrong Words:{" "}
           <span
             style={{
@@ -38,9 +39,14 @@ function Result(props) {
           >
             {props.wrongWords}
           </span>
-        </h3>
+        </h5>
         <div>
-          <button onClick={() => window.location.reload(true)}>
+          <button
+            type="button"
+            className="btn btn-outline-primary"
+            style={{ marginTop: "60px" }}
+            onClick={() => window.location.reload(true)}
+          >
             Try Again
           </button>
         </div>
