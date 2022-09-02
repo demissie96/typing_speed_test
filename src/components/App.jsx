@@ -15,7 +15,7 @@ var timer = false;
 // For preventing timer to set true on keypress
 var dontChangeTimer = false;
 
-function Generate300Words() {
+function Generate280Words() {
   let indexNum = 0;
   // The highest typing speed ever recorded was 216 words per minute (wpm),
   // so make a list of 280 random words.
@@ -103,6 +103,8 @@ function App() {
 
   // Run functions on initial rendering
   useEffect(() => {
+    Generate280Words();
+
     // On keypress, analyze the letter whether it's correct or not
     document.addEventListener("keydown", (event) => {
       // Start timer
@@ -118,7 +120,7 @@ function App() {
         inputValue.value = "";
       }
     });
-    Generate300Words();
+
     setTimeout(() => {
       setWordList(
         englishList.map((item) => (
