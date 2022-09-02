@@ -32,7 +32,7 @@ function Generate300Words() {
 function App() {
   const [wordList, setWordList] = useState("");
   const [scrollText, setScrollText] = useState(scroll);
-  const [timerOn, setTimerOn] = useState(false);
+  const [timerOn, setTimerOn] = useState(true);
 
   function Scrolling(element) {
     if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
