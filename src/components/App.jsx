@@ -9,6 +9,8 @@ var wordsWidth = 0;
 var correctWord = 0;
 var wrongWord = 0;
 var scroll = 0;
+var sec = 3;
+var timer = false;
 
 function Generate300Words() {
   let indexNum = 0;
@@ -32,7 +34,26 @@ function Generate300Words() {
 function App() {
   const [wordList, setWordList] = useState("");
   const [scrollText, setScrollText] = useState(scroll);
-  const [timerOn, setTimerOn] = useState(true);
+  const [timerOn, setTimerOn] = useState(timer);
+  const [second, setSecond] = useState(3);
+
+  function StartCounting() {
+    timer = true;
+    setTimerOn(true);
+    var myInterval = setInterval(() => {
+      setSecond((prevCount) => prevCount - 1);
+      sec--;
+      console.log(sec);
+      if (sec === 0) {
+        timer = false;
+        setTimerOn(false);
+        clearInterval(myInterval);
+      }
+    }, 1000);
+
+    // This line is essential for setInterval work properly in React
+    return () => clearInterval();
+  }
 
   function Scrolling(element) {
     if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
@@ -78,8 +99,10 @@ function App() {
     // On keypress, analyze the letter whether it's correct or not
     document.addEventListener("keydown", (event) => {
       // Start timer
-      if (timerOn === false) {
+      if (timer === false) {
+        timer = true;
         setTimerOn(true);
+        StartCounting();
       }
       // On space press
       if (event.key === " ") {
@@ -182,9 +205,7 @@ function App() {
                 autoComplete="off"
                 autoFocus="true"
               />
-              {timerOn && (
-                <Timer />
-              )}
+              {timerOn && <Timer second={second} />}
             </div>
           </div>
         </div>
