@@ -3,11 +3,15 @@ import React from "react";
 function Result(props) {
   return (
     <>
-      <div>
+      <div
+        style={{
+          textAlign: "center",
+        }}
+      >
         <h1
           style={{
             color: "#C84B31",
-            marginTop: "30px",
+            marginTop: "60px",
             marginBottom: "30px",
             fontSize: "60px",
             fontFamily: "Dancing Script, cursive",
@@ -35,6 +39,11 @@ function Result(props) {
             {props.wrongWords}
           </span>
         </h3>
+        <div>
+          <button onClick={() => window.location.reload(true)}>
+            Try Again
+          </button>
+        </div>
       </div>
     </>
   );

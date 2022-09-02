@@ -133,93 +133,96 @@ function App() {
         ))
       );
     }, 500);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
     <>
       <Header />
-      <div id="workingArea" style={{ height: "128" }}>
-        <div
-          id="coverElement1"
-          style={{
-            position: "relative",
-            margin: "0 auto 0",
-            width: "800px",
-            height: "60px",
-            backgroundColor: "#191919",
-            zIndex: 1,
-          }}
-        ></div>
-        <div
-          id="displayWords"
-          style={{
-            display: "flex",
-            position: "relative",
-            whiteSpace: "pre",
-            width: "800px",
-            height: "69.82px",
-            overflow: "visible",
-            flexDirection: "row",
-            flexWrap: "wrap",
-            justifyContent: "flex-start",
-            margin: "0 auto 0",
-            padding: "0",
-            // this moves the text with 34px = 1 row
-            top: `${scrollText}px`,
-            zIndex: 0,
-          }}
-        >
-          {wordList}
-        </div>
-        <div
-          id="coverElement2"
-          style={{
-            position: "absolute",
-            left: 0,
-            right: 0,
-            margin: "0 auto 0",
-            width: "850px",
-            height: "1200px",
-            backgroundColor: "#191919",
-            top: "216px",
-            zIndex: 0,
-          }}
-        >
-          <div>
-            <div style={{ textAlign: "center" }}>
-              <h1
-                style={{
-                  marginTop: "60px",
-                  fontFamily: "Dancing Script, cursive",
-                  color: "#ECDBBA",
-                }}
-              >
-                Start Typing
-              </h1>
-              <input
-                style={{
-                  height: "40px",
-                  width: "600px",
-                  fontSize: "30px",
-                  color: "white",
-                  fontFamily: "serif",
-                  textAlign: "center",
-                  backgroundColor: "#191919",
-                }}
-                type="text"
-                id="input"
-                name="input"
-                autoComplete="off"
-                autoFocus="true"
-              />
-              {timerOn && <Timer second={second} />}
-              {showResult && (
-                <Result correctWords={correctWord} wrongWords={wrongWord} />
-              )}
+      {showResult === false && (
+        <div id="workingArea" style={{ height: "128" }}>
+          <div
+            id="coverElement1"
+            style={{
+              position: "relative",
+              margin: "0 auto 0",
+              width: "800px",
+              height: "60px",
+              backgroundColor: "#191919",
+              zIndex: 1,
+            }}
+          ></div>
+          <div
+            id="displayWords"
+            style={{
+              display: "flex",
+              position: "relative",
+              whiteSpace: "pre",
+              width: "800px",
+              height: "69.82px",
+              overflow: "visible",
+              flexDirection: "row",
+              flexWrap: "wrap",
+              justifyContent: "flex-start",
+              margin: "0 auto 0",
+              padding: "0",
+              // this moves the text with 34px = 1 row
+              top: `${scrollText}px`,
+              zIndex: 0,
+            }}
+          >
+            {wordList}
+          </div>
+          <div
+            id="coverElement2"
+            style={{
+              position: "absolute",
+              left: 0,
+              right: 0,
+              margin: "0 auto 0",
+              width: "850px",
+              height: "1200px",
+              backgroundColor: "#191919",
+              top: "216px",
+              zIndex: 0,
+            }}
+          >
+            <div>
+              <div style={{ textAlign: "center" }}>
+                <h1
+                  style={{
+                    marginTop: "60px",
+                    fontFamily: "Dancing Script, cursive",
+                    color: "#ECDBBA",
+                  }}
+                >
+                  Start Typing
+                </h1>
+                <input
+                  style={{
+                    height: "40px",
+                    width: "600px",
+                    fontSize: "30px",
+                    color: "white",
+                    fontFamily: "serif",
+                    textAlign: "center",
+                    backgroundColor: "#191919",
+                  }}
+                  type="text"
+                  id="input"
+                  name="input"
+                  autoComplete="off"
+                  autoFocus={true}
+                />
+                {timerOn && <Timer second={second} />}
+              </div>
             </div>
           </div>
         </div>
-      </div>
+      )}
+      {showResult && (
+        <Result correctWords={correctWord} wrongWords={wrongWord} />
+      )}
     </>
   );
 }
