@@ -39,16 +39,15 @@ function App() {
   const [second, setSecond] = useState(sec);
   const [showResult, setShowResult] = useState(false);
 
-  // Start the countdown 
+  // Start the countdown
   function StartCounting() {
-    timer = true;    
+    timer = true;
     setTimerOn(true); // For conditional rendering Timer component
 
     // Countdown process
     var myInterval = setInterval(() => {
       setSecond((prevCount) => prevCount - 1);
       sec--;
-      console.log(sec);
 
       // Stop the countdown when it reaches 0s
       if (sec === 0) {
@@ -67,7 +66,7 @@ function App() {
   // Scroll when the words' width in a row is greater than the flexbox width
   function Scrolling(element) {
     if (wordsWidth > document.getElementById("displayWords").offsetWidth) {
-      scroll -= 34;      
+      scroll -= 34;
       // After scrolling, make the first element width equal to wordsWidth
       wordsWidth = element.offsetWidth;
 
@@ -91,11 +90,11 @@ function App() {
       wrongWord++;
     }
 
-    wordsWidth += currentElement.offsetWidth; 
+    wordsWidth += currentElement.offsetWidth;
 
     // Scrolling function
     Scrolling(currentElement);
-    
+
     // Check space element width for scrolling
     wordCount++;
     var spaceElement = document.getElementById(`${wordCount}`);
@@ -103,8 +102,6 @@ function App() {
 
     // Scrolling function
     Scrolling(spaceElement);
-
-    console.log(`Correct vs wrong: ${correctWord} vs. ${wrongWord}`);
   }
 
   // Run functions on initial rendering
@@ -114,7 +111,7 @@ function App() {
     // On keypress
     document.addEventListener("keydown", (event) => {
       // Start timer on first keypress and prevent restart timer with dontChangeTimer
-      // when timer reach 0 
+      // when timer reach 0
       if (timer === false && dontChangeTimer === false) {
         timer = true;
         setTimerOn(true);
@@ -140,7 +137,7 @@ function App() {
         </div>
       ))
     );
-   
+
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
