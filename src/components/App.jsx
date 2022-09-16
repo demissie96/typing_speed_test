@@ -145,7 +145,7 @@ function App() {
     <>
       <Header />
       {showResult === false && (
-        <div id="workingArea" style={{ height: "128" }}>
+        <div id="workingArea" style={{ height: "128", padding: "0 20px 0" }}>
           <div
             id="coverElement1"
             style={{
